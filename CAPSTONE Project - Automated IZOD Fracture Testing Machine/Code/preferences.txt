@@ -1,4 +1,4 @@
-Count:	91
+Count:	4
 Time_Sensitivity_ms:	10.0
 Time_Factor:	1.5
 Arm_Radius_mm:	359.918
@@ -8,11 +8,11 @@ Mass_0_g:	414.1
 Mass_1_g:	943.0
 Mass_2_g:	2060.8
 Mass_3_g:	3355.8
-Mass_0_calib_angle_deg:	130.165
-Mass_1_calib_angle_deg:	131.908
-Mass_2_calib_angle_deg:	132.851
-Mass_3_calib_angle_deg:	133.121
-Mass_0_L_mm:	282.26
-Mass_1_L_arm_mm:	329.26
-Mass_2_L_arm_mm:	354.96
-Mass_3_L_arm_mm:	367.55
+Mass_0_calib_angle_deg:	130.14
+Mass_1_calib_angle_deg:	131.9238
+Mass_2_calib_angle_deg:	132.8652
+Mass_3_calib_angle_deg:	133.128
+Mass_0_L_mm:	283.58
+Mass_1_L_arm_mm:	338.96
+Mass_2_L_arm_mm:	365.54
+Mass_3_L_arm_mm:	379.13

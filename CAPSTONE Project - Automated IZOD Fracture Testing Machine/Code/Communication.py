@@ -77,14 +77,14 @@ def readpref():
             mass1 = 943.0
             mass2 = 2060.8
             mass3 = 3355.8
-            mass0calibangle = 130.165
-            mass1calibangle = 131.908
-            mass2calibangle = 132.851
-            mass3calibangle = 133.121
-            Larm0 = 282.26
-            Larm1 = 329.26
-            Larm2 = 354.96
-            Larm3 = 367.550
+            mass0calibangle = 130.14
+            mass1calibangle = 131.9238
+            mass2calibangle = 132.8652
+            mass3calibangle = 133.128
+            Larm0 = 283.58
+            Larm1 = 338.96
+            Larm2 = 365.54
+            Larm3 = 379.13
     except:
         pass
     

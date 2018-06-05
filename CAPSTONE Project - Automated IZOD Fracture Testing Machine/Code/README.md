@@ -6,3 +6,4 @@ TODO: Code Descriptions
 - `appPI.py` GUI for the raspberry PI Touchscreen
 - `Communication.py` Communication between the Arduino and the GUIs
 - `Senior_Design.ino` Arduino Code to operate the machine
+
