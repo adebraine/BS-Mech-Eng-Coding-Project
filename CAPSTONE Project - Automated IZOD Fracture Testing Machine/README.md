@@ -10,7 +10,7 @@ includes:
 - CAD & Real Images of the Machine
 
 # Images
-![](images/GIF_run.gif)
+![](Images/GIF_run.gif)
 
 ![](images/IMG_0240.jpg)
 
